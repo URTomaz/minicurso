@@ -1,5 +1,5 @@
 <?php
-    $titulo = "Minicurso de Git";
+    $titulo = "Minicurso de Git e de GitHub";
     phpinfo();
 
 ?>
