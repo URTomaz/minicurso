@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Minicurso Git e GitHub</title>
+    <title>Minicurso Git e GitHub de Projetos.</title>
 </head>
 <body>
     <h1>Título desta página</h1>
